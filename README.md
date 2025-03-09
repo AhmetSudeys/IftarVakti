@@ -1,4 +1,5 @@
 📌 Kullanım Talimatları
+
 Bu proje, CollectAPI Namaz Vakitleri API’sini kullanarak belirttiğiniz şehre göre iftar saatini gösteren bir uygulamadır.
 Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz. 🚀
 
