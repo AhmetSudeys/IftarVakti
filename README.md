@@ -18,6 +18,7 @@ Projeyi çalıştırabilmek için CollectAPI’den API anahtarı (token) almanı
 
 
 2️⃣ API Anahtarınızı Koda Ekleyin
+
 Şimdi aldığınız API anahtarını koda eklemelisiniz.
 
 🔹 Yapılması Gerekenler:
@@ -27,11 +28,13 @@ Projeyi çalıştırabilmek için CollectAPI’den API anahtarı (token) almanı
 
 
 3️⃣ Projeyi Çalıştırın
+
 Şimdi API anahtarınızı eklediğinize göre uygulamayı çalıştırabilirsiniz! 
 
 
 
-4️⃣ Nasıl Kullanılır
+4️⃣ Nasıl Kullanılır?
+
 Program açıldığında şehir ismini girerek "İftara Kalan Süreyi Gör" butonuna basın.
 
 📌 Örnek: "İstanbul", "Ankara", "Bursa" gibi şehir isimlerini yazabilirsiniz.
