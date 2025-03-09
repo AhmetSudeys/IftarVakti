@@ -32,6 +32,7 @@ Projeyi çalıştırabilmek için CollectAPI’den API anahtarı (token) almanı
 
 Artık API anahtarınızı eklediğinize göre uygulamayı çalıştırabilirsiniz! 
 
+🖥 Main dosyasını açın ve programı çalıştırın. 
 
 
 4️⃣ Nasıl Kullanılır?
