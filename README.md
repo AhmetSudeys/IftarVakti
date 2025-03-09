@@ -30,7 +30,7 @@ Projeyi çalıştırabilmek için CollectAPI’den API anahtarı (token) almanı
 
 3️⃣ Projeyi Çalıştırın
 
-Şimdi API anahtarınızı eklediğinize göre uygulamayı çalıştırabilirsiniz! 
+Artık API anahtarınızı eklediğinize göre uygulamayı çalıştırabilirsiniz! 
 
 
 
@@ -40,7 +40,8 @@ Program açıldığında şehir ismini girerek "İftara Kalan Süreyi Gör" buto
 
 📌 Örnek: "İstanbul", "Ankara", "Bursa" gibi şehir isimlerini yazabilirsiniz.
 
-Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını görebilirsiniz! 🚀
+Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını görebilirsiniz! 
+
 
 ✅ Artık Proje Kullanıma Hazır!
 
@@ -49,6 +50,8 @@ Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını g�
 📌 Ekstra Bilgiler
 
 API anahtarınızı GitHub veya herhangi bir açık platformda paylaşmayın.
+
 Eğer API çalışmazsa, internet bağlantınızı ve API anahtarınızı kontrol edin.
+
 Arka plan resmini değiştirmek istiyorsanız, background.png dosyasını güncelleyebilirsiniz.
 
