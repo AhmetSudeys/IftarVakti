@@ -13,7 +13,7 @@ Merak etmeyin, aşağıdaki adımları takip ederek ücretsiz olarak alabilirsin
 🔹 Adım Adım API Anahtarı Alma:
 1. CollectAPI’ye gidin ve ücretsiz bir hesap oluşturun.
 2. Giriş yaptıktan sonra "API Market" (API Pazarı) sekmesine tıklayın.
-3. "Prayer Times API" (Namaz Vakitleri API’si) hizmetini seçin.
+3. "Prayer Times API" (Namaz Vakitleri API’si) hizmetini bulun ve seçin.
 4. "Subscribe" (Abone Ol) butonuna basarak API’ye abone olun.
 5. "My APIs" (API’lerim) sekmesine giderek API anahtarınızı (token) alın.
 
