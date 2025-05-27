@@ -1,7 +1,7 @@
 📌 Kullanım Talimatları
 
 Bu proje, CollectAPI Namaz Vakitleri API’sini kullanarak belirttiğiniz şehre göre iftar saatini gösteren bir uygulamadır.
-Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz. 🚀
+Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz. 
 
 
 
@@ -32,19 +32,17 @@ Projeyi çalıştırabilmek için CollectAPI’den API anahtarı (token) almanı
 
 Artık API anahtarınızı eklediğinize göre uygulamayı çalıştırabilirsiniz! 
 
-🖥 Main dosyasını açın ve programı çalıştırın. 
+Main dosyasını açın ve programı çalıştırın. 
 
 
 4️⃣ Nasıl Kullanılır?
 
 Program açıldığında şehir ismini girerek "İftara Kalan Süreyi Gör" butonuna basın.
 
-📌 Örnek: "İstanbul", "Ankara", "Bursa" gibi şehir isimlerini yazabilirsiniz.
+Örnek: "İstanbul", "Ankara", "Bursa" gibi şehir isimlerini yazabilirsiniz.
 
-Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını görebilirsiniz! 
+Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını görebilirsiniz 
 
-
-✅ Artık Proje Kullanıma Hazır!
 
 
 
@@ -55,4 +53,6 @@ API anahtarınızı GitHub veya herhangi bir açık platformda paylaşmayın.
 Eğer API çalışmazsa, internet bağlantınızı ve API anahtarınızı kontrol edin.
 
 Arka plan resmini değiştirmek istiyorsanız, background.png dosyasını güncelleyebilirsiniz.
+
+Hayırlı Ramazanlar :)
 
