@@ -7,7 +7,8 @@ Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz.
 
 1️⃣ API Anahtarınızı Alın
 
-Projeyi çalıştırabilmek için CollectAPI’den API anahtarı (token) almanız gerekmektedir.
+Projeyi çalıştırabilmek için CollectAPI’den API anahtarı (token) almanız gerekmektedir. 
+Merak etmeyin, aşağıdaki adımları takip ederek ücretsiz olarak alabilirsiniz.
 
 🔹 Adım Adım API Anahtarı Alma:
 1. CollectAPI’ye gidin ve ücretsiz bir hesap oluşturun.
