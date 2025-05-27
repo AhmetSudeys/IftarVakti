@@ -38,11 +38,9 @@ Main dosyasını açın ve programı çalıştırın.
 
 4️⃣ Nasıl Kullanılır?
 
-Program açıldığında şehir ismini girerek "İftara Kalan Süreyi Gör" butonuna basın.
+Program açıldığında dilediğiniz şehir ismini girerek "İftara Kalan Süreyi Gör" butonuna basın.
 
-Örnek: "İstanbul", "Ankara", "Bursa" gibi şehir isimlerini yazabilirsiniz.
-
-Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını görebilirsiniz. 
+Bu sayede belirttiğiniz şehir için iftara ne kadar süre kaldığını ekranda görebilirsiniz. 
 
 
 
