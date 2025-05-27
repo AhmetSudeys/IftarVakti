@@ -14,14 +14,14 @@ Merak etmeyin, aşağıdaki adımları takip ederek ücretsiz olarak alabilirsin
 1. CollectAPI’ye gidin ve ücretsiz bir hesap oluşturun.
 2. Giriş yaptıktan sonra "API Market" (API Pazarı) sekmesine tıklayın.
 3. "Prayer Times API" (Namaz Vakitleri API’si) hizmetini bulun ve seçin.
-4. "Subscribe" (Abone Ol) butonuna basarak API’ye abone olun.
-5. "My APIs" (API’lerim) sekmesine giderek API anahtarınızı (token) alın.
+4. "Subscribe" (Abone Ol) butonuna basarak API’ye abone olun. Bu sayede API anahtarınız oluşmuş olacak.
+5. "My APIs" (API’lerim) sekmesine giderek API anahtarınızı (token) kopyalayın.
 
 
 
 2️⃣ API Anahtarınızı Koda Ekleyin
 
-Şimdi aldığınız API anahtarını koda eklemelisiniz.
+Şimdi kopyaladığınız API anahtarını koda eklemelisiniz.
 
 🔹 Yapılması Gerekenler:
 1. main.py dosyasını açın ve şu satırı bulun --> "authorization": "apikey your_api_key_here"
@@ -42,7 +42,7 @@ Program açıldığında şehir ismini girerek "İftara Kalan Süreyi Gör" buto
 
 Örnek: "İstanbul", "Ankara", "Bursa" gibi şehir isimlerini yazabilirsiniz.
 
-Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını görebilirsiniz 
+Sonuç: Ekranda seçtiğiniz şehir için iftara ne kadar süre kaldığını görebilirsiniz. 
 
 
 
